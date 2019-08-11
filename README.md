@@ -1,7 +1,13 @@
 # Strawberry-disease-detection-using-Faster-RCNN
 ## some examples of strawberry data used during training
+1) angular leafspot
 ![angular_leafspot3](https://user-images.githubusercontent.com/26374302/62831127-3d685300-bc55-11e9-87fd-5d507ef01ed8.jpg)
-
+2) anthracnose fruitrot
+![anthracnose_fruit_rot324](https://user-images.githubusercontent.com/26374302/62831152-8f10dd80-bc55-11e9-8de8-6a96943d41e4.jpg)
+3) gray mold
+![gray_mold104](https://user-images.githubusercontent.com/26374302/62831160-acde4280-bc55-11e9-8597-b8af48b1b7c0.jpg)
+4) leaf blight
+![leaf_blight105](https://user-images.githubusercontent.com/26374302/62831168-c54e5d00-bc55-11e9-9929-b610d2cf4822.jpg)
 ## Spliting data into train and test
 ## Training results using Resnet50 as a base network
 
