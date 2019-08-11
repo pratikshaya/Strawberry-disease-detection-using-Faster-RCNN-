@@ -11,8 +11,11 @@
 3) gray mold
 
 ![gray_mold89](https://user-images.githubusercontent.com/26374302/62831209-79e87e80-bc56-11e9-90c0-275c40062530.jpg)
+
 4) leaf blight
-![leaf_blight105](https://user-images.githubusercontent.com/26374302/62831168-c54e5d00-bc55-11e9-9929-b610d2cf4822.jpg)
+
+![leaf_blight49](https://user-images.githubusercontent.com/26374302/62831223-a7352c80-bc56-11e9-92e0-51de2367ae00.jpg)
+
 5) leaf scorch
 
 ![leaf_scorch42](https://user-images.githubusercontent.com/26374302/62831173-00e92700-bc56-11e9-8e9a-d0af1cc174e1.jpg)
