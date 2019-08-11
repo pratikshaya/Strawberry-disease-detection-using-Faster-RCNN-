@@ -33,6 +33,10 @@ powdery mildew leaf
 ![powdery_mildew_leaf253](https://user-images.githubusercontent.com/26374302/62831259-190d7600-bc57-11e9-98ae-c1bf1af38bf2.jpg)
 
 ## Spliting data into train and test
+
+
+![hyper_parameter](https://user-images.githubusercontent.com/26374302/62831269-4b1ed800-bc57-11e9-81c9-bbf89fe6be3e.JPG)
+
 ## Training results using Resnet50 as a base network
 
 ![Capture](https://user-images.githubusercontent.com/26374302/62830949-47d51d80-bc52-11e9-907c-50af4895beec.JPG)
