@@ -52,3 +52,7 @@ hyper parameter used in faster rcnn
 
 ![graymold](https://user-images.githubusercontent.com/26374302/62831332-3db61d80-bc58-11e9-8932-09cc242a4477.JPG)
 
+### for mildew with 9 anchor 3 anchor scale and 3 anchor ratios
+
+![mildew](https://user-images.githubusercontent.com/26374302/62831347-91286b80-bc58-11e9-8d1f-ef60a8b6081b.JPG)
+
