@@ -1,1 +1,1 @@
-# Strawberry-disease-detection-using-Faster-RCNN-
+# Strawberry-disease-detection-using-Faster-RCNN
