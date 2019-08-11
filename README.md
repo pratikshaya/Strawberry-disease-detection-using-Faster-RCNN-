@@ -28,6 +28,9 @@ powdery mildew fruit
 
 ![powdery_mildew_fruit103](https://user-images.githubusercontent.com/26374302/62831244-f11e1280-bc56-11e9-9d6e-02b99df126ce.jpg)
 
+powdery mildew leaf 
+
+![powdery_mildew_leaf253](https://user-images.githubusercontent.com/26374302/62831259-190d7600-bc57-11e9-98ae-c1bf1af38bf2.jpg)
 
 ## Spliting data into train and test
 ## Training results using Resnet50 as a base network
