@@ -46,3 +46,9 @@ hyper parameter used in faster rcnn
 ![Capture1](https://user-images.githubusercontent.com/26374302/62830961-88349b80-bc52-11e9-987c-69d4fbbf8481.JPG)
 ![Capture3](https://user-images.githubusercontent.com/26374302/62830969-ab5f4b00-bc52-11e9-8ead-914fdb057c52.JPG)
 ![Capture4](https://user-images.githubusercontent.com/26374302/62830976-c0d47500-bc52-11e9-826c-010fdfcf237b.JPG)
+
+## Detection result 
+### for graymold with 9 anchor 3 anchor scale and 3 anchor ratios
+
+![graymold](https://user-images.githubusercontent.com/26374302/62831332-3db61d80-bc58-11e9-8932-09cc242a4477.JPG)
+
