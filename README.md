@@ -7,8 +7,10 @@
 2) anthracnose fruitrot
 
 ![anthrancnose_fruit_rot30](https://user-images.githubusercontent.com/26374302/62831197-5291b180-bc56-11e9-9cea-71a943dd6539.jpg)
+
 3) gray mold
-![gray_mold104](https://user-images.githubusercontent.com/26374302/62831160-acde4280-bc55-11e9-8597-b8af48b1b7c0.jpg)
+
+![gray_mold89](https://user-images.githubusercontent.com/26374302/62831209-79e87e80-bc56-11e9-90c0-275c40062530.jpg)
 4) leaf blight
 ![leaf_blight105](https://user-images.githubusercontent.com/26374302/62831168-c54e5d00-bc55-11e9-9929-b610d2cf4822.jpg)
 5) leaf scorch
