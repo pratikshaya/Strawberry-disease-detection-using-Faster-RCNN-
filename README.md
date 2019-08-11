@@ -22,8 +22,12 @@
 
 6) leaf spot
 
-
 ![leaf_spot151](https://user-images.githubusercontent.com/26374302/62831235-cfbd2680-bc56-11e9-9335-d7bec1b917c6.jpg)
+
+powdery mildew fruit
+
+![powdery_mildew_fruit103](https://user-images.githubusercontent.com/26374302/62831244-f11e1280-bc56-11e9-9d6e-02b99df126ce.jpg)
+
 
 ## Spliting data into train and test
 ## Training results using Resnet50 as a base network
