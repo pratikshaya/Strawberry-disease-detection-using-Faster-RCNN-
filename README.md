@@ -19,6 +19,12 @@
 5) leaf scorch
 
 ![leaf_scorch42](https://user-images.githubusercontent.com/26374302/62831173-00e92700-bc56-11e9-8e9a-d0af1cc174e1.jpg)
+
+6) leaf spot
+
+
+![leaf_spot151](https://user-images.githubusercontent.com/26374302/62831235-cfbd2680-bc56-11e9-9335-d7bec1b917c6.jpg)
+
 ## Spliting data into train and test
 ## Training results using Resnet50 as a base network
 
