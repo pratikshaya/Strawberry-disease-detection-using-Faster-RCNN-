@@ -8,6 +8,9 @@
 ![gray_mold104](https://user-images.githubusercontent.com/26374302/62831160-acde4280-bc55-11e9-8597-b8af48b1b7c0.jpg)
 4) leaf blight
 ![leaf_blight105](https://user-images.githubusercontent.com/26374302/62831168-c54e5d00-bc55-11e9-9929-b610d2cf4822.jpg)
+5) leaf scorch
+
+![leaf_scorch42](https://user-images.githubusercontent.com/26374302/62831173-00e92700-bc56-11e9-8e9a-d0af1cc174e1.jpg)
 ## Spliting data into train and test
 ## Training results using Resnet50 as a base network
 
