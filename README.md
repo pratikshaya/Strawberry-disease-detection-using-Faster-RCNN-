@@ -10,7 +10,7 @@
 
 ![architecture](https://user-images.githubusercontent.com/26374302/62862751-c52b8b80-bd41-11e9-8078-7b76fbc4773d.JPG)
 
-##some examples of my strawberry data used during training. 
+## some examples of my strawberry data used during training. 
 
 ### 1) angular leafspot
 
