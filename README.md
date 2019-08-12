@@ -32,9 +32,6 @@ powdery mildew leaf
 
 ![powdery_mildew_leaf253](https://user-images.githubusercontent.com/26374302/62831259-190d7600-bc57-11e9-98ae-c1bf1af38bf2.jpg)
 
-## Spliting data into train and test
-
-![splitting_data](https://user-images.githubusercontent.com/26374302/62831290-7275a500-bc57-11e9-9caa-4edf89835a72.JPG)
 
 hyper parameter used in faster rcnn
 
