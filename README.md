@@ -1,4 +1,4 @@
-# Strawberry-disease-detection-using-Faster-RCNN
+# Faster RCNN for strawberry disease detection in keras
 
 ### For data augmentation in Pascal-VOC format I strongly recommend https://medium.com/@bhuwanbhattarai/image-data-augmentation-and-parsing-into-an-xml-file-in-pascal-voc-format-for-object-detection-4cca3d24b33b
 ## some examples of strawberry data used during training
