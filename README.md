@@ -1,6 +1,6 @@
 # Strawberry-disease-detection-using-Faster-RCNN
 
-### For data augmentation I strongly recommend https://medium.com/@bhuwanbhattarai/image-data-augmentation-and-parsing-into-an-xml-file-in-pascal-voc-format-for-object-detection-4cca3d24b33b
+### For data augmentation in Pascal-VOC format I strongly recommend https://medium.com/@bhuwanbhattarai/image-data-augmentation-and-parsing-into-an-xml-file-in-pascal-voc-format-for-object-detection-4cca3d24b33b
 ## some examples of strawberry data used during training
 1) angular leafspot
 
