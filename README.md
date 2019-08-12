@@ -1,9 +1,10 @@
 # Faster RCNN for strawberry disease detection in keras
 
-## For labelling your own data in Pascal-VOC format. you can use https://github.com/tzutalin/labelImg
+### The data that I used here is not currently available in the internet. But you can make your own dataset for specific task for object detection.
+
+## For labelling your own data in Pascal-VOC format you can install the popular labelling tool https://github.com/tzutalin/labelImg in your windows machine.
 
 ### For data augmentation in Pascal-VOC format I strongly recommend https://medium.com/@bhuwanbhattarai/image-data-augmentation-and-parsing-into-an-xml-file-in-pascal-voc-format-for-object-detection-4cca3d24b33b
-### The data that I used here is not currently available in the internet. But you can make your own data for different class object for training.
 
 ##some examples of my strawberry data used during training. 
 
