@@ -3,7 +3,8 @@
 ## For labelling your own data in Pascal-VOC format. you can use https://github.com/tzutalin/labelImg
 
 ### For data augmentation in Pascal-VOC format I strongly recommend https://medium.com/@bhuwanbhattarai/image-data-augmentation-and-parsing-into-an-xml-file-in-pascal-voc-format-for-object-detection-4cca3d24b33b
-## some examples of strawberry data used during training
+### some examples of my strawberry data used during training. The data that I used here is not currently available in the internet. But you can make your own data for different class object for training.
+
 1) angular leafspot
 
 ![angular_leafspot3](https://user-images.githubusercontent.com/26374302/62831186-3261f280-bc56-11e9-9c56-0cc6e82d78a2.jpg)
