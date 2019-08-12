@@ -12,35 +12,35 @@
 
 ##some examples of my strawberry data used during training. 
 
-1) angular leafspot
+### 1) angular leafspot
 
 ![angular_leafspot3](https://user-images.githubusercontent.com/26374302/62831186-3261f280-bc56-11e9-9c56-0cc6e82d78a2.jpg)
 
-2) anthracnose fruitrot
+### 2) anthracnose fruitrot
 
 ![anthrancnose_fruit_rot30](https://user-images.githubusercontent.com/26374302/62831197-5291b180-bc56-11e9-9cea-71a943dd6539.jpg)
 
-3) gray mold
+### 3) gray mold
 
 ![gray_mold89](https://user-images.githubusercontent.com/26374302/62831209-79e87e80-bc56-11e9-90c0-275c40062530.jpg)
 
-4) leaf blight
+### 4) leaf blight
 
 ![leaf_blight49](https://user-images.githubusercontent.com/26374302/62831223-a7352c80-bc56-11e9-92e0-51de2367ae00.jpg)
 
-5) leaf scorch
+### 5) leaf scorch
 
 ![leaf_scorch42](https://user-images.githubusercontent.com/26374302/62831173-00e92700-bc56-11e9-8e9a-d0af1cc174e1.jpg)
 
-6) leaf spot
+### 6) leaf spot
 
 ![leaf_spot151](https://user-images.githubusercontent.com/26374302/62831235-cfbd2680-bc56-11e9-9335-d7bec1b917c6.jpg)
 
-powdery mildew fruit
+### 7) powdery mildew fruit
 
 ![powdery_mildew_fruit103](https://user-images.githubusercontent.com/26374302/62831244-f11e1280-bc56-11e9-9d6e-02b99df126ce.jpg)
 
-powdery mildew leaf 
+### 8) powdery mildew leaf 
 
 ![powdery_mildew_leaf253](https://user-images.githubusercontent.com/26374302/62831259-190d7600-bc57-11e9-98ae-c1bf1af38bf2.jpg)
 
